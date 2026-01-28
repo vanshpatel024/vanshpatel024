@@ -130,4 +130,3 @@ Most of my work revolves around full stack development, but I’m comfortable wo
 ### Connect
 - Email: vanshpatel092405@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/vansh-patel-6b94462b0/  
-- LeetCode: https://leetcode.com/u/VanshPatel09/
